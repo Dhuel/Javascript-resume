@@ -1,0 +1,28 @@
+Javascript objects
+
+var objectName = {};
+
+ - objects can hold arrays and other objects
+
+
+Regular expressions
+newHTML = _html.replace(/</g, "&lt;");
+
+Anonymous functions - functions without names
+$.getJSON("test.json", function(data) {
+    console.log(data);
+});
+
+
+
+
+JQuery
+$(#"itemhere")
+
+DOM - Document object model
+
+
+.class:last
+select every object with and use whatever function called on last element`
+
+
